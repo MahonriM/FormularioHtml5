@@ -1,0 +1,17 @@
+html,body{
+    background-color: blue;
+    font-family: Roboto,Arial, Helvetica, sans-serif;
+  font-size:40px;
+
+}
+head{
+  background-color: white;
+  
+}
+aside{
+  position:center;
+}
+footer{
+  font-size:20px;
+    font-color:red;
+}
